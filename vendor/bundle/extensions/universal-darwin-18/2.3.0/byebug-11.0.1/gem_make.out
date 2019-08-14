@@ -1,0 +1,19 @@
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190813-51741-1y0wqrt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190813-51741-14yvi8y/byebug

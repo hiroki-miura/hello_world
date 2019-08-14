@@ -1,0 +1,15 @@
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190813-51741-1geus4x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/Owner/Desktop/joint_development/hello_world/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190813-51741-1xhsj72/skiptrace/internal
